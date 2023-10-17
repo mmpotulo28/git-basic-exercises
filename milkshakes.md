@@ -1,4 +1,3 @@
 strawberry
 banana
 vanilla
-original flavour
